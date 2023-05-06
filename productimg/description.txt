@@ -1,0 +1,387 @@
+https://www.digikey.com/en/new-products?&utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=EN_Pakistan_Product_General&utm_term=electronic%20components&utm_content=General&gclid=CjwKCAjwtp2bBhAGEiwAOZZTuOh4giHRr68bjxzQQ6TaojjSg5PonqNWkmGEWiNPZzzk0_JsJDn8-BoCXfAQAvD_BwE
+
+ZSSC3281 Dual-Channel Resistive Sensor Signal Conditioner IC with Analog Output
+
+img1
+
+ZSSC3281 is a dual-path SSC IC for highly accurate amplification, digitization, and sensor-specific correction of sensor signals. It is suitable for bridge and half-bridge sensors as well as external voltage-source element and single-element sensors (e.g., Pt100 and external temperature sensor diodes) powered by an on-chip current source.
+Digital compensation of the sensor offset,sensitivity, temperature drift, and non-linearity is accomplished via a 32-bit Arm® M3-based math core running a correction algorithm with calibration coefficients stored in a non-volatile, reprogrammable memory. The programmable, integrated sensor front-end allows the optimal application of various
+sensors for a broad range of applications.
+
+MAX34427/MAX34417 SMBus Dual/Quad Range Power Accumulators
+
+img2
+
+MAX34427 and MAX34417 power accumulators are specialized current, voltage, and power monitors used to determine the power consumption of systems.
+Both devices have a very wide dynamic range (20,000:1) that allows for the accurate measurement of power in such systems. The devices are 
+configured and monitored with a standard I2C/SMBus serial interface.The unidirectional current sensor offers precision high-side operation with a low full-scale sense voltage.
+The MAX34427 shield evaluation kit (MAX34427SHLD#) provides the hardware and software graphical user interface (GUI) necessary to evaluate the 
+MAX34427,an SMBus two-channel, high dynamic range current, voltage, and power accumulator. It is a fully assembled and tested PCB. The shield 
+operates from a single supply (either from a USB or an external power supply).This device is accessed through an I2C serial interface provided 
+by a MAX32625PICO board connected to a PC by a USB port and a micro-USB cable.
+
+Features
+
+. Small multichannel power accumulator and WLP with no orphan pads helps space-constrained applications
+. Low sense voltage (down to 5 μV) enables smaller, less expensive resistors
+. Highly accurate power measurement with <3.5% error at VSENSE = 50 µV
+
+Applications
+
+. Servers
+. Smartphones
+. Tablets
+. Ultra-notebooks
+
+2410 Size Overcurrent Surface Mount Brick Fuses – 2410TD/2410FA Series
+
+img3
+
+Eaton Bussmann's 2410 series surface mount ceramic brick fuses offer time delay and fast-acting characteristics for overcurrent situations requiring up to 250 VAC protection. These two families offer current carrying capability from 500 mA to 15 A in the industry-standard 2410 EIA (6125 metric) package. UL248 rated and CURus recognition make safety qualification easier and allow for quick turnaround safety approvals for applications like LED lighting drivers, appliances, and white goods, and industrial electronics and computing.
+
+Eaton-Bussmann Electrical Division
+2410 Size Overcurrent Surface Mount Brick Fuses – 2410TD/2410FA Series
+Eaton's overcurrent time delay and fast-acting fuses come in EIA industry standard 2410 size
+Image of Eaton's 2410 Size Overcurrent Surface Mount Brick Fuses – 2410TD/2410FA SeriesEaton Bussmann's 2410 series surface mount ceramic brick fuses offer time delay and fast-acting characteristics for overcurrent situations requiring up to 250 VAC protection. These two families offer current carrying capability from 500 mA to 15 A in the industry-standard 2410 EIA (6125 metric) package. UL248 rated and CURus recognition make safety qualification easier and allow for quick turnaround safety approvals for applications like LED lighting drivers, appliances, and white goods, and industrial electronics and computing.
+
+Image of cURus logo
+
+Resources
+
+Product Aid: Eaton SMD Solutions for Overcurrent and Overvoltage Protection
+Use Case: Eaton SMD Fuses for Primary Circuit Protection
+Features
+2410TD Series
+Time delay
+Designed to UL248
+Overcurrent protection of systems up to 250 VAC/60 VDC
+Current rating: 500 mA to 7.0 A
+High inrush withstand capability
+2410FA Series
+Fast acting
+Designed to UL248
+Overcurrent protection of systems up to 125 VAC/125 VDC
+Current rating: 500 mA to 15 A
+
+Applications
+
+Power supplies
+Servers
+LED lighting drivers
+Appliances and white goods
+LCD monitor/backlight inverters
+VAC chip-on-board (COB) lighting
+Industrial electronics and computing
+
+VSHB0754T Series Hot-Pressed Molding Power Choke
+
+img4
+
+VSHB0754T series power choke is designed with a composite structure and hot-pressed molding, which has a lower resistance value and effectively eliminates the risk of an interlayer short. It is available in 15 inductance values from 1.5 µH to 68 µH and is qualified for AEC-Q200 Grade 0 (-55°C ～ +165°C ambient). The saturation current is from 2.4 A to 14.2 A, and the soft saturation is stable over temperature and enables high peak current handling. Magnetic shielding reduces EMI at high switching frequencies. The VSHB0754T series is RoHS/REACH compliant and halogen-free.
+
+Features
+Composite structure minimizes buzz noise
+Hot-pressed molding by alloy powder
+Lower resistance value
+Low loss, high power at high frequency
+Low risk of interlayer short
+AEC-Q200 Grade 0 (-55°C ～ +165°C)
+High resistance to thermal shock, moisture, and mechanical shock
+
+Applications
+
+Automotive electronics:
+Instrumentation panels
+ADAS systems and car lighting
+Noise suppression for PWM-controlled motors
+T-boxes, OBC, and BMS
+360-degree surround view camera systems
+High-current filters
+DC/DC converters
+High-efficiency power supplies
+
+CPRX2520L Series Ultra Low Loss High-Current Power Inductor
+
+img5
+
+CPRX2520L series high-current power inductor offers extremely high saturation current up to 110 A and high efficiency. It has a magnetic powder core with very low core loss and soft saturation characteristics to withstand high peak current. The flat wire design utilizes the magnetic core winding space effectively to achieve high current and low DC resistance. The DCR is as low as 0.38 mΩ, which can reduce DC loss.
+
+The electronic performance of the CPRX2520L series is stable and less affected by the ambient temperature. Even if it continues to work at +150°C high-temperature environments, it can still maintain a stable inductance value and DC bias capability.
+
+Features
+
+Saturation current up to 110 A
+High performance
+Magnetic powder core with low loss
+DCR of 0.38 mΩ reduces DC loss
+Hot-dipped tin plating reduces the risk of whisker growth
+Stripped and tinned terminals for through-hole mounting
+Customized options available
+
+Applications
+
+VRM, energy storage in DC/DC converters
+High-current POL converters
+Automotive electronics
+Energy storage equipment
+Photovoltaic industry
+
+TBP Series IR Temperature Sensor
+
+img6
+
+TBP series is a non-contact IR temperature measurement sensor that is designed to compensate the active for sudden changes in ambient temperature (thermal shock) with less impact. The devices utilize the I2C communication method.
+
+Features
+
+Operating voltage range: 3 V to 5 V
+Operating current: 1.2 mA (typ.)
+Object temperature range: -40°C to +380°C
+Operating temperature range: -20°C to +85°C
+Interface type: I2C
+IR refresh rate: 10 Hz
+Digital resolution: +0.01°C
+PCB dimensions (WxDxH): 17.9 mm x 11.4 mm x 1.2 mm
+Accuracy: ±2% reading or ±2°C (whichever is greater)
+
+Applications
+
+Overheating systems
+Industrial temperature measurement devices
+Home appliances
+Intelligence temperature control systems
+
+TW5390 TruPrecision™ L-Band SDK RF Antenna
+
+img7
+
+TW5390 multi-band (L1/L2), multi-constellation integrated global navigation satellite system (GNSS) receiver/antenna with inertial measurement unit (IMU) and integrated L-band corrections receiver is ideal for stand-alone real-time kinematic (RTK) for precise point positioning. The TW5390 is capable of providing sub-6 cm accuracy to support the most demanding navigation, automation, and precision agriculture applications. The TW5390 SDK provides the TruPrecision application and the configuration adapter to connect to a PC.
+
+The TruPrecision SDK application connects PointPerfect® IP corrections and decryption keys to a TW5390 to quickly deliver corrected output position data for seamless integration into existing geodetic software platforms.
+
+Features and Benefits
+
+Integrated L-band corrections receiver for exceptional precision
+Improved noise immunity with multi-band GNSS receiver
+Improved multi-path rejection with dual feed Accutenna™
+High-precision tracking with rapid convergence
+Multi-band GNSS receiver is unaffected by ionospheric errors
+High position availability in an urban environment with untethered dead reckoning (UDR)
+Easy connection to computer and PointPerfect services for trials
+Out-of-the-box operation
+
+Applications
+
+Autonomous, crewless vehicles
+<6 cm precision GPS positioning
+Military and security
+Surveying
+Product evaluation and development
+
+MAX66250/MAX66301 NFC Secure Authenticators and Coprocessors
+
+img8
+
+MAX66250 and MAX66301 NFC secure authenticators and coprocessors provide a complete contactless security solution. These products feature the latest SHA-3 challenge-and-response cryptographic algorithm coupled with NFC ISO 15693 interface to authenticate and protect against security attacks and prevent counterfeits.
+
+The MAX66301-25x evaluation system (MAX66301-25XEVKIT#) comprises a MAX66301 evaluation kit (EV kit) and a MAX66250 tag. The MAX66301 EV kit combines an RFID reader for contactless communication at 13.56 MHz and a SHA-3 secure authenticator coprocessor. The RFID reader covers the ISO 15693 standard, and the authenticator coprocessor is based on the FIPS202-compliant standard. The MAX66250 tag operates as a solution covering the ISO 15693 standard and combines FIPS202-compliant secure hash algorithm (SHA-3) challenge and response authentication with secured EEPROM. By pairing the MAX66301 with the MAX66250 into an EV system, the EV kit software can operate to show a secure challenge and response authentication and other part-specific functionality.
+
+Features
+
+SHA-3 challenge-and-response algorithm provides a crypto-strong security solution for robust countermeasures against security attacks
+ISO 15693 interface supports greater communication distance for passive NFC tags
+256-bit secure EEPROM with non-resettable decrement-only counter securely stores generic end application data
+
+Applications
+
+Medical tools and accessories authentication and calibration
+Printer cartridge configuration and monitoring
+System intellectual property protection
+NFC-enabled embedded systems
+Asset tracking
+Access control
+Driver identification
+E-Cash
+
+LSK389 Series Dual N-Channel JFETs
+
+img9
+
+ LSK389 series is an ultra-low-noise dual junction field effect transistor (JFET) with models including LSK389A, LSK389B, LSK389C, and LSK389D. The models are graded by IDSS. The LSK389B grade model is designed for ultra-high-end systems, ranging from U.S. Navy underwater listening to studio reference amps and microphones.
+
+These JFETs are individually tested for noise to ensure datasheet compliance. The two halves of the dual are interwoven using a proprietary design for optimal matching characteristics.
+
+Features
+
+Monolithic dual N-channel JFET
+Tight matching and high CMRR
+Ultra-low-noise: en = 1.3 nV/√Hz at 1 kHz (typ.)
+SOIC 8L RoHS
+Tight offset voltage and low drift over the temperature specifications
+
+Applications
+
+Ultra-high-end audio
+Military sensors
+Audio amps and preamps
+Discrete low-noise operational amps
+Battery-operated audio preamps
+Audio mixer consoles
+Acoustic sensors
+Sonic imaging
+Instrumentation amps
+Microphones
+Sonobuoys
+Hydrophones
+Chemical and radiation detectors
+
+CPCE2624A High-Current Power Inductor
+
+img10
+
+CPCE2624A series high-current power inductor features magnetic powder core technology, which provides stable inductance value and saturation over high operating temperatures. The soft saturation characteristics can withstand high peak current. Flat wire winding is designed to deliver stable inductance and saturation at high temperatures up to +150°C, and the low DCR reduces power losses and increases efficiency. The CPCE2624A series through-hole design offers excellent vibration resistance. Customization for this series is also available, and the inductors are RoHS/REACH compliant and halogen-free.
+
+Features
+
+Magnetic powder core
+High inductance and high current
+High saturation and high performance
+Operating temperature: -55°C ～ +150°C
+Hot-dipped tin plating reduces the risk of whisker growth
+Customized options available
+
+Applications
+
+High-efficiency power supplies
+Energy storage equipment
+Photovoltaic industry, solar energy, and wind energy
+Battery testing equipment
+Aging test equipment
+Agricultural drones
+
+CLL3H0914L-700/CLL3H0914LS-700 Power Transistors
+
+img11
+
+CLL3H0914L-700 and CLL3H0914LS-700 are 700 W internally pre-matched RF GaN-SiC HEMT power transistors that are usable in the frequency range from 0.9 GHz to 1.4 GHz. The devices offer excellent efficiency, thermal resistance, and ruggedness suitable for short- and long-pulse applications.
+
+The CLL3H0914L-700 and CLL3H0914LS-700 are capable of withstanding a load mismatch corresponding to VSWR = 10:1 through all phases under the following conditions: VDS = 50 V; f = 1,300 MHz at rated load power on RF development board using a pulsed CW RF signal.
+
+Ampleon recommends the following drivers for each power transistor: CLF3H0060-30 for CLL3H0914L-700 and CLF3H0060S-30 for CLL3H0914LS-700.
+
+Features
+
+High-efficiency, short-pulse reference designs at 960 MHz to 1,215 MHz and 1,030 MHz for avionics applications
+High-efficiency, long-pulse reference designs at 1.2 GHz to 1.4 GHz
+Low thermal resistance
+Excellent ruggedness
+RoHS-compliant
+
+MB7850 XL-TankSensor-WRMA for IoT
+
+img12
+
+The MB7850 XL-TankSensor-WRMA from MaxBotix is a unique combination of enhanced hardware and firmware that offer top-notch performance inside of tanks. The MB7850 tank sensor is a low-cost liquid-level monitoring sensor that uses ultrasonic technology for non-contact sensing. The unique design makes this an easy-to-use sensor for various liquid-level detection applications. The MB7850 is great for use in containers such as tanks, barrels, and bins which can often be a challenge for ultrasonic devices.
+
+One element that sets the MB7850 apart is a teach feature (available using serial communication) that can train the sensor to recognize what the empty container looks like. This enables the sensor to range properly even in the presence of otherwise detectable obstructions like corrugation. The sensor boasts advanced target reporting algorithms that ensure the right level is being reported. It can even offer a confidence level of the reported range reading for those especially challenging applications. Although the TankSensor offers many advanced features, it comes ready to use out of the box. No additional inputs are typically required. Users can just power the sensor up and start reading the tank level.
+
+Features
+
+Optional teach function for the sensor to learn difficult environments
+Advanced range and diagnostic data that offer greater operational insights
+A free-run operation can continually measure and output range information
+The max range of the sensor can be adjusted
+Real-time auto sensitivity adjustment and noise rejection
+High acoustic power output
+Precise narrow beam characteristics
+Liquid detection includes zero range
+3 V to 5.5 V supply with a very low average current draw
+4.032 Hz refresh rate
+Triggered operation provides the range reading as desired
+All interfaces are active simultaneously
+RS232/TTL Serial, 0 to VCC, 9600 Baud, 81N
+Analog, (VCC: 1024)/cm
+The sensor operates at 42 kHz
+
+Applications
+
+Liquid level measurement
+IoT tank level measurement
+Wireless tank monitoring
+Industrial sensors
+
+Grid-EYE® Wide-Angle Infrared Array Sensors
+
+img13
+
+AMG88x543 Grid-EYE wide-angle infrared array sensors feature high-resolution 8 pixels by 8 pixels for a total of 64 pixels for temperature distribution. These 90° sensors offer a digital output I²C external interface for thermal presence, direction, and temperature values. The built-in lens includes an improved 90° viewing angle and features a compact SMD design using MEMS thermopile technology. They are available in 3.3 V and 5.0 V operating voltage options.
+
+The Grid-EYE wide-angle type sensor applications include human detection, people counting, thermal mapping, digital signage, security, lighting control, kiosks/ATMs, medical imaging, automatic doors, robotics, and more.
+
+Features
+
+Improved viewing from 60° to 90° for larger area coverage
+Compatible with previous AMG88xx 60° model
+High-resolution 8 pixels x 8 pixels for a total of 64 pixels for temperature distribution
+PCB mountable device, SMD type
+Applied voltage: 3.3 V ±0.3 V or 5.0 V ±0.5 V
+Temperature range of measuring object: 0°C to +80°C
+Operating temperature range: 0°C to +80°C
+Industries
+Smart homes
+Automotive
+Lighting
+Computers/IT
+Industrial electronics
+
+Applications
+
+HVACs and air conditioners/building energy management systems (BEMS)
+Microwave ovens/kitchen appliances
+Surveillance/security systems
+Automatic doors/elevators
+
+JXS21P4/JXS22P4/JXS32P4 Series AEC-Q200 Qualified Quartz Crystals
+
+img14
+
+Quartz crystals for automotive applications are subject to particular environmental conditions with specific corresponding test ‎conditions clearly defined in the AEC-Q200 standard. Jauch Quartz's JXS21P4, JXS22P4, and JXS32P4 AEC-Q200 qualified crystals ‎have been optimized to meet the special operating conditions that apply to automotive use.
+
+
+Features
+
+4 pad version
+‎2016, 2520, and 3225 packages‎
+HMR versions with extended shock and vibration performance
+All versions are AEC-Q200 qualified
+Seam sealed ceramic/metal package
+Frequency range: 8 MHz~54 MHz
+
+Applications
+
+ECU
+TPMS
+GPS
+PAS
+ICE/IVE
+
+DTP Series Sensors
+
+img15
+
+DTP series is comprised of non-contact infrared temperature measurement sensors.
+
+These sensors compensate for sudden changes in ambient temperature (thermal shock) with less impact. A four-wire open cable that is 100 mm in length is offered with this sensor.
+
+Features
+
+Measuring temperature: -40°C to +380°C
+Communication: UART 3.3 V TTL and Modbus485 RTU
+Operating voltage: 3.3 V
+
+Applications
+
+IR temperature measurement
+Overheating systems
+Industrial temperature measurement devices
+Home appliances

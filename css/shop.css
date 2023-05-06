@@ -1,0 +1,175 @@
+/*********************shop****************/
+.center_shop{
+padding-top:60px;
+padding-bottom:20px;  
+  }
+.center_shop_2l h5 i{
+ color:#f47629;
+ margin-right:5px;
+ font-size:16px; 
+  }
+.center_shop_2l h5{
+ padding-left:15px;
+ padding-right:15px;
+ }
+.center_shop_2l{
+box-shadow: 0 0 10px rgba(0,0,0,0.6);
+ padding:15px 20px 20px 20px;
+ }
+.center_shop_2lir p{
+ font-size:15px;
+ line-height:1.2em;
+ }
+.center_shop_2lir span{
+display:block;
+margin-top:5px;
+ }
+.center_shop_2lir h4{
+margin-top:5px;
+ }
+.center_shop_2li{
+margin-top:15px;
+padding-bottom:15px;
+border-bottom:1px solid #ddd; 
+ }
+ 
+.center_product_1r2r h5{
+display:inline-block;
+margin-right:10px; 
+ }
+.center_product_1r2r .form-control{
+display:inline-block;
+width:50%; 
+border-radius:0;
+ }
+.center_product_1r2{
+background:#f4f4f4;
+padding-top:10px;
+padding-bottom:10px;
+ }
+.center_product_1r2l{
+ padding-top:6px;
+ }
+.center_shop_2{
+margin-top:30px; 
+ }
+.center_shop_2ri span{
+margin-top:15px;
+display:block; 
+ }
+.center_shop_2rii{
+box-shadow: 0 0 10px rgba(0,0,0,0.6);
+padding:15px; 
+ }
+.center_shop_2ri{
+margin-top:30px; 
+ }
+ 
+.center_product_1r4r ul li a{
+color:#333; 
+ }
+.center_product_1r4r ul li a:hover{
+background: #f47629;
+color:#fff;
+border-color:#f47629;
+ }
+.pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+background: #f47629;
+color:#fff;
+border-color:#f47629;
+ }
+.center_product_1r4r{
+margin-top:30px; 
+ }
+/*********************shop_end****************/
+
+@media screen and (max-width : 767px){
+.center_shop {
+ text-align:center;
+ padding-top:40px;
+ }
+.center_shop_2lir {
+margin-top:10px; 
+ }
+.center_product_1r2r {
+  text-align:center;
+  margin-top:10px;
+ }
+.center_shop_2r {
+margin-top:15px; 
+ }
+.center_product_1r4r {
+ text-align:center; 
+ }
+.pagination>li>a, .pagination>li>span{
+padding:6px 10px; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+@media (min-width:992px) and (max-width:1200px) {
+
+ }
+@media (min-width:1201px) and (max-width:1260px) {
+
+ }
+
+
+
+
+/*Footer*/
+ 
+.footer-bs {
+  background-color: #3c3d41;
+padding: 60px 40px;
+color: rgba(255,255,255,1.00);
+margin-bottom: 20px;
+/* border-bottom-right-radius: 6px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 6px; */
+}
+.footer-bs .footer-brand, .footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { padding:10px 25px; }
+.footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { border-color: transparent; }
+.footer-bs .footer-brand h2 { margin:0px 0px 10px; }
+.footer-bs .footer-brand p { font-size:13px; color:rgba(255,255,255,0.70); }
+
+.footer-bs .footer-nav ul.pages { list-style:none; padding:0px; }
+.footer-bs .footer-nav ul.pages li { padding:5px 0px;}
+.footer-bs .footer-nav ul.pages a { color:rgba(255,255,255,1.00); font-weight:bold; text-transform:uppercase; }
+.footer-bs .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
+.footer-bs .footer-nav h4 {
+font-size: 11px;
+text-transform: uppercase;
+letter-spacing: 3px;
+margin-bottom:10px;
+}
+
+.footer-bs .footer-nav ul.list { list-style:none; padding:0px; }
+.footer-bs .footer-nav ul.list li { padding:5px 0px;}
+.footer-bs .footer-nav ul.list a { color:rgba(255,255,255,0.80); }
+.footer-bs .footer-nav ul.list a:hover { color:rgba(255,255,255,0.60); text-decoration:none; }
+
+.footer-bs .footer-social ul { list-style:none; padding:0px; }
+.footer-bs .footer-social h4 {
+font-size: 11px;
+text-transform: uppercase;
+letter-spacing: 3px;
+}
+.footer-bs .footer-social li { padding:5px 4px;}
+.footer-bs .footer-social a { color:rgba(255,255,255,1.00);}
+.footer-bs .footer-social a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
+
+.footer-bs .footer-ns h4 {
+font-size: 11px;
+text-transform: uppercase;
+letter-spacing: 3px;
+margin-bottom:10px;
+}
+.footer-bs .footer-ns p { font-size:12px; color:rgba(255,255,255,0.70); }
+
+@media (min-width: 768px) {
+.footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { border-left:solid 1px rgba(255,255,255,0.10); }
+}
+
