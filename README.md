@@ -1,6 +1,9 @@
 # LAB_AUTOMATION
 E-project LAB AUTOMATION
 
+## Batch Code:
+PR2-202205C
+
 ## Team Members:
 | Student ID | Name |
 | ------ | ------ |
@@ -12,6 +15,7 @@ E-project LAB AUTOMATION
 ## ADMIN LOGIN DETAILS:
 
 Username: admin
+
 Password: admin123
 
 1) EXTRACT THE FILE 
